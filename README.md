@@ -27,14 +27,16 @@ case-bari/
 │   │       ├── conversao_canal.png
 │   │       ├── conversao_mensal.png
 │   │       └── perdas_etapa.png
-│   │    └──resumo_executivo.pdf
-│   └── parte3/
-│       ├── extracao_laudos.json
-│       ├── extracao_laudos.csv
-│       ├── extracao_laudos_bruta.json
-│       ├── erros_extracao_laudos.json
-│       ├── avaliacao_extracao_laudos.csv
-│       └── metricas_extracao_laudos.json
+│   │
+│   ├── parte3/
+│   │   ├── extracao_laudos.json
+│   │   ├── extracao_laudos.csv
+│   │   ├── extracao_laudos_bruta.json
+│   │   ├── erros_extracao_laudos.json
+│   │   ├── avaliacao_extracao_laudos.csv
+│   │   └── metricas_extracao_laudos.json
+│   │
+│   └── resumo_executivo.pdf
 │
 ├── logs/
 │   ├── parte2/
