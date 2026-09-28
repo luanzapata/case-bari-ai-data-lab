@@ -1,0 +1,1115 @@
+[
+  {
+    "arquivo": "laudo_01.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "apartamento residencial",
+          "evidencia": "Imóvel: apartamento residencial"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua das Acácias, 145, ap. 82 - Vila Mariana, São Paulo/SP",
+          "evidencia": "Endereço: Rua das Acácias, 145, ap. 82 - Vila Mariana, São Paulo/SP"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área privativa",
+          "valor_texto": "78,40",
+          "unidade": "m²",
+          "evidencia": "Área privativa: 78,40 m²"
+        },
+        {
+          "rotulo": "área total",
+          "valor_texto": "102,10",
+          "unidade": "m²",
+          "evidencia": "área total: 102,10 m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2014",
+          "contexto": "Ano de construção",
+          "evidencia": "Ano de construção: 2014"
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 642.000,00",
+          "evidencia": "Valor de avaliação: R$ 642.000,00"
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "184.772",
+          "evidencia": "Matrícula: 184.772 do 14º CRI de São Paulo"
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "SEM_ONUS",
+          "texto": "não foram identificados ônus na certidão analisada.",
+          "evidencia": "Ônus: não foram identificados ônus na certidão analisada."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "12/03/2025",
+          "evidencia": "Vistoria realizada em 12/03/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Marina Albuquerque",
+          "registro": "CREA-SP 5061234567",
+          "evidencia": "Eng. Marina Albuquerque - CREA-SP 5061234567."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_02.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "casa térrea",
+          "evidencia": "Trata-se de uma casa térrea, com 146,00 m2 de área construída"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Av. Central, 900, bloco B, Belo Horizonte - MG",
+          "evidencia": "Localização do bem: Av. Central, 900, bloco B, Belo Horizonte - MG."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área construída",
+          "valor_texto": "146,00",
+          "unidade": "m2",
+          "evidencia": "com 146,00 m2 de área construída"
+        },
+        {
+          "rotulo": "área do terreno",
+          "valor_texto": "250",
+          "unidade": "m²",
+          "evidencia": "lote de 250 m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2008",
+          "contexto": "Construída em 2008.",
+          "evidencia": "Construída em 2008."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "seiscentos e oitenta mil reais (R$ 680.000)",
+          "evidencia": "Estimativa de mercado: seiscentos e oitenta mil reais (R$ 680.000)."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "45.981",
+          "evidencia": "Registro imobiliário nº 45.981"
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "SEM_ONUS",
+          "texto": "sem gravames conhecidos",
+          "evidencia": "Certidão: sem gravames conhecidos."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "18/03/2025",
+          "evidencia": "Data da inspeção: 18/03/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Carlos Henrique Moura",
+          "registro": "CAU A123456-7",
+          "evidencia": "Avaliador: Carlos Henrique Moura, CAU A123456-7."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_03.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "sala comercial",
+          "evidencia": "vistoriamos a sala comercial 503"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua do Comércio, 77, Curitiba/PR",
+          "evidencia": "Rua do Comércio, 77, Curitiba/PR"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área útil",
+          "valor_texto": "54,8",
+          "unidade": "m²",
+          "evidencia": "Área útil 54,8 m²"
+        },
+        {
+          "rotulo": "área comum proporcional",
+          "valor_texto": "18,2",
+          "unidade": "m²",
+          "evidencia": "área comum proporcional 18,2 m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "IDADE",
+          "valor_texto": "11 anos",
+          "contexto": "Idade aparente",
+          "evidencia": "Idade aparente: 11 anos."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 395.500,00",
+          "evidencia": "Valor indicado: R$ 395.500,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "77.201",
+          "evidencia": "Matrícula 77.201 - 5º Registro de Imóveis."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "NAO_VERIFICADO",
+          "texto": "Consta alienação fiduciária em favor de instituição financeira; recomenda-se atualização da certidão.",
+          "evidencia": "Consta alienação fiduciária em favor de instituição financeira; recomenda-se atualização da certidão."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "22 de março de 2025",
+          "evidencia": "Em 22 de março de 2025 vistoriamos"
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Beatriz Nunes",
+          "registro": "CAU A987654-3",
+          "evidencia": "Arq. Beatriz Nunes (CAU A987654-3)"
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_04.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "terreno urbano",
+          "evidencia": "Tipo: terreno urbano"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Lote 18, Quadra F, Rua Ipê Amarelo, Goiânia/GO",
+          "evidencia": "Endereço do imóvel: Lote 18, Quadra F, Rua Ipê Amarelo, Goiânia/GO"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área do terreno",
+          "valor_texto": "360",
+          "unidade": "m2",
+          "evidencia": "Área do terreno: 360 m2"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "NAO_APLICAVEL",
+          "valor_texto": "não se aplica",
+          "contexto": null,
+          "evidencia": "Ano: não se aplica"
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 218.000",
+          "evidencia": "Valor de mercado R$ 218.000"
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "102.334",
+          "evidencia": "Matrícula 102.334"
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "NAO_INFORMADO",
+          "texto": "nada informado no documento apresentado",
+          "evidencia": "Ônus e restrições: nada informado no documento apresentado"
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "02/04/2025",
+          "evidencia": "Data da vistoria 02/04/2025"
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Paulo Sérgio Reis",
+          "registro": "CREA 12345/D-GO",
+          "evidencia": "RT: Paulo Sérgio Reis, CREA 12345/D-GO"
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_05.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "imóvel rural denominado Sítio Boa Vista",
+          "evidencia": "Objeto: imóvel rural denominado Sítio Boa Vista."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Município de Campinas, UF SP",
+          "evidencia": "Município de Campinas, UF SP."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área do terreno",
+          "valor_texto": "4,8",
+          "unidade": "ha",
+          "evidencia": "Área do terreno: 4,8 ha;"
+        },
+        {
+          "rotulo": "benfeitorias construídas",
+          "valor_texto": "310",
+          "unidade": "m²",
+          "evidencia": "benfeitorias construídas: 310 m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "1999",
+          "contexto": "Ano das edificações",
+          "evidencia": "Ano das edificações: 1999."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 1.275.000,00",
+          "evidencia": "Valor total da avaliação: R$ 1.275.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "32.110",
+          "evidencia": "Matrícula 32.110."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "COM_ONUS",
+          "texto": "reserva legal registrada; não foi apontada hipoteca",
+          "evidencia": "Ônus: reserva legal registrada; não foi apontada hipoteca."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "07/04/2025",
+          "evidencia": "Inspeção em 07/04/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "João A. Farias",
+          "registro": "CREA-SP 5076543210",
+          "evidencia": "Perito avaliador: João A. Farias, CREA-SP 5076543210."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_06.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "Apartamento",
+          "evidencia": "Apartamento situado à Rua das Palmeiras, 1.210, Recife/PE, CEP 50000-100."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua das Palmeiras, 1.210, Recife/PE, CEP 50000-100",
+          "evidencia": "Apartamento situado à Rua das Palmeiras, 1.210, Recife/PE, CEP 50000-100."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área privativa",
+          "valor_texto": "61",
+          "unidade": "m²",
+          "evidencia": "Área privativa 61m²"
+        },
+        {
+          "rotulo": "área total",
+          "valor_texto": "84",
+          "unidade": "m²",
+          "evidencia": "área total 84m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2018",
+          "contexto": "construção",
+          "evidencia": "Imóvel com 2018 de construção."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 455.000,00",
+          "evidencia": "Avaliação: R$ 455.000,00"
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "9.876",
+          "evidencia": "Matrícula: 9.876"
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "NAO_INFORMADO",
+          "texto": "Não consta informação sobre ônus.",
+          "evidencia": "Não consta informação sobre ônus."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "15/04/2025",
+          "evidencia": "Vistoria: 15/04/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Fernanda Lins",
+          "registro": "CREA 18001/PE",
+          "evidencia": "Responsável técnico: Fernanda Lins, CREA 18001/PE."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_07.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "Casa geminada",
+          "evidencia": "Casa geminada, Rua Azul, 33, bairro Jardim Europa, Porto Alegre - RS."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua Azul, 33, bairro Jardim Europa, Porto Alegre - RS",
+          "evidencia": "Casa geminada, Rua Azul, 33, bairro Jardim Europa, Porto Alegre - RS."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área do terreno",
+          "valor_texto": "125,00",
+          "unidade": "m²",
+          "evidencia": "Terreno 125,00 m² / área edificada 92,50 m²."
+        },
+        {
+          "rotulo": "área edificada",
+          "valor_texto": "92,50",
+          "unidade": "m²",
+          "evidencia": "Terreno 125,00 m² / área edificada 92,50 m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2011",
+          "contexto": "Ano de construção informado pelo proprietário",
+          "evidencia": "Ano de construção informado pelo proprietário: 2011."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 372.000,00",
+          "evidencia": "Valor venal adotado: R$ 372.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "66.504",
+          "evidencia": "Matrícula 66.504 do Registro de Imóveis da 4ª Zona."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "COM_ONUS",
+          "texto": "Há penhora averbada, conforme documento consultado em 20/04/2025.",
+          "evidencia": "Há penhora averbada, conforme documento consultado em 20/04/2025."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "20-04-2025",
+          "evidencia": "Data da vistoria: 20-04-2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Rafael Costa",
+          "registro": "CREA-RS 222333",
+          "evidencia": "Responsável: Eng. Rafael Costa, CREA-RS 222333."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_08.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "loja térrea com sobreloja",
+          "evidencia": "Imóvel: loja térrea com sobreloja"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua Sete de Setembro, 410, Salvador/BA",
+          "evidencia": "Endereço: Rua Sete de Setembro, 410, Salvador/BA"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área construída",
+          "valor_texto": "118",
+          "unidade": "m²",
+          "evidencia": "Área construída aproximada: 118 m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2005",
+          "contexto": "Ano de referência",
+          "evidencia": "Ano de referência: 2005"
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 910.000,00",
+          "evidencia": "Valor de avaliação R$ 910.000,00"
+        }
+      ],
+      "matriculas": [],
+      "onus": [
+        {
+          "classificacao": "NAO_VERIFICADO",
+          "texto": "não foi possível verificar por ausência de certidão",
+          "evidencia": "Ônus: não foi possível verificar por ausência de certidão."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "29/04/2025",
+          "evidencia": "Vistoria efetuada em 29/04/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Luciana Prado",
+          "registro": "CNAI 12345",
+          "evidencia": "Avaliadora responsável: Luciana Prado - CNAI 12345."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_09.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "Casa residencial",
+          "evidencia": "Casa residencial na Alameda das Flores 88, Florianópolis/SC."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Alameda das Flores 88, Florianópolis/SC",
+          "evidencia": "Alameda das Flores 88, Florianópolis/SC."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área do lote",
+          "valor_texto": "420,00",
+          "unidade": "m²",
+          "evidencia": "Área do lote 420,00 m²"
+        },
+        {
+          "rotulo": "área construída",
+          "valor_texto": "198,00",
+          "unidade": "m²",
+          "evidencia": "área construída 198,00 m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2020",
+          "contexto": "Construção",
+          "evidencia": "Construção: 2020."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 1.080.000,00",
+          "evidencia": "Valor apurado: R$ 1.080.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "12.909",
+          "evidencia": "Matrícula 12.909, 1º Ofício."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "SEM_ONUS",
+          "texto": "A certidão indica inexistência de ônus reais.",
+          "evidencia": "A certidão indica inexistência de ônus reais."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "03/05/2025",
+          "evidencia": "Inspeção presencial em 03/05/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Thiago Martins",
+          "registro": "CREA-SC 7654321",
+          "evidencia": "Eng. Thiago Martins, CREA-SC 7654321."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_10.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "apartamento",
+          "evidencia": "apartamento no Condomínio Parque Norte, Brasília/DF"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "SQN 214, bloco C, apto 407, Condomínio Parque Norte, Brasília/DF",
+          "evidencia": "apartamento no Condomínio Parque Norte, Brasília/DF, SQN 214, bloco C, apto 407"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área privativa",
+          "valor_texto": "96,3",
+          "unidade": "m²",
+          "evidencia": "Área privativa 96,3 m²"
+        },
+        {
+          "rotulo": "área total",
+          "valor_texto": "127,6",
+          "unidade": "m²",
+          "evidencia": "Área total 127,6 m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2016",
+          "contexto": "Ano de conclusão",
+          "evidencia": "Ano de conclusão 2016"
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 735.000,00",
+          "evidencia": "Valor de mercado: R$ 735.000,00"
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "201.443",
+          "evidencia": "Registro: matrícula 201.443"
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "COM_ONUS",
+          "texto": "alienação fiduciária mencionada na matrícula",
+          "evidencia": "Gravames: alienação fiduciária mencionada na matrícula"
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "09/05/2025",
+          "evidencia": "Vistoria em 09/05/2025"
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Denise Carvalho",
+          "registro": "CREA-DF 112233",
+          "evidencia": "Perita: Denise Carvalho, CREA-DF 112233"
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_11.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "Terreno para incorporação",
+          "evidencia": "Terreno para incorporação localizado na Rua Projetada 4, s/n, Santos, SP."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua Projetada 4, s/n, Santos, SP",
+          "evidencia": "Rua Projetada 4, s/n, Santos, SP."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "Superfície",
+          "valor_texto": "1.020",
+          "unidade": "m2",
+          "evidencia": "Superfície: 1.020 m2."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "NAO_APLICAVEL",
+          "valor_texto": "inexistente",
+          "contexto": "ano de construção",
+          "evidencia": "Sem edificação; ano de construção: inexistente."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 2.450.000,00",
+          "evidencia": "Avaliação final R$ 2.450.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "88.710",
+          "evidencia": "Matrícula 88.710."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "NAO_INFORMADO",
+          "texto": "Ônus reais não informados.",
+          "evidencia": "Ônus reais não informados."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "16/05/2025",
+          "evidencia": "Data do levantamento: 16/05/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Marcos Vieira",
+          "registro": "CREA-SP 5099988776",
+          "evidencia": "Elaborado por: Marcos Vieira, Eng. Civil, CREA-SP 5099988776."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_12.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "casa de alto padrão",
+          "evidencia": "Tipo de propriedade: casa de alto padrão"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua das Bromélias, 500, Lago Sul, Brasília - DF",
+          "evidencia": "Local: Rua das Bromélias, 500, Lago Sul, Brasília - DF"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área construída",
+          "valor_texto": "285",
+          "unidade": "m²",
+          "evidencia": "Área construída de 285 m²"
+        },
+        {
+          "rotulo": "área do terreno",
+          "valor_texto": "600",
+          "unidade": "m²",
+          "evidencia": "terreno com 600 m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2012",
+          "contexto": null,
+          "evidencia": "Ano informado: 2012"
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 2.180.000,00",
+          "evidencia": "Preço/valor de avaliação: R$ 2.180.000,00"
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "54.122",
+          "evidencia": "Matrícula 54.122."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "COM_ONUS",
+          "texto": "servidão de passagem registrada",
+          "evidencia": "Ônus: servidão de passagem registrada."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "23/05/2025",
+          "evidencia": "Data da visita técnica 23/05/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Andréa Melo",
+          "registro": "CAU A445566-1",
+          "evidencia": "Responsável pelo trabalho: Arq. Andréa Melo, CAU A445566-1."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_13.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "Apartamento",
+          "evidencia": "Apartamento, Av. Brasil 1770, ap. 1201, Rio de Janeiro/RJ."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Av. Brasil 1770, ap. 1201, Rio de Janeiro/RJ",
+          "evidencia": "Av. Brasil 1770, ap. 1201, Rio de Janeiro/RJ."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área útil",
+          "valor_texto": "112,00",
+          "unidade": "m²",
+          "evidencia": "Área útil: 112,00m²."
+        },
+        {
+          "rotulo": "área total",
+          "valor_texto": "155,00",
+          "unidade": "m²",
+          "evidencia": "Área total: 155,00m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "1987",
+          "contexto": "Ano de construção",
+          "evidencia": "Ano de construção: 1987."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 1.320.000,00",
+          "evidencia": "Valor estimado em R$ 1.320.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "145.230",
+          "evidencia": "Matrícula 145.230 do 7º RGI."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "COM_ONUS",
+          "texto": "penhora cancelada, conforme averbação; documento não informa data do cancelamento",
+          "evidencia": "Ônus: penhora cancelada, conforme averbação; documento não informa data do cancelamento."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "30/05/2025",
+          "evidencia": "Vistoria 30/05/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Eduardo Sampaio",
+          "registro": "CNAI 67890",
+          "evidencia": "Avaliador: Eduardo Sampaio, CNAI 67890."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_14.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "galpão industrial",
+          "evidencia": "Identificação: galpão industrial"
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rodovia BR-116, km 12, Betim/MG",
+          "evidencia": "Endereço: Rodovia BR-116, km 12, Betim/MG"
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área coberta",
+          "valor_texto": "1.450",
+          "unidade": "m²",
+          "evidencia": "Área coberta: 1.450 m²"
+        },
+        {
+          "rotulo": "terreno",
+          "valor_texto": "3.000",
+          "unidade": "m²",
+          "evidencia": "terreno: 3.000 m²"
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "IDADE",
+          "valor_texto": "18",
+          "contexto": "aproximadamente 18 anos",
+          "evidencia": "Idade: aproximadamente 18 anos"
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 3.900.000",
+          "evidencia": "Valor indicado pelo método comparativo: R$ 3.900.000"
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "70.008",
+          "evidencia": "Matrícula: 70.008"
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "SEM_ONUS",
+          "texto": "Não há menção a ônus.",
+          "evidencia": "Não há menção a ônus."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "05/06/2025",
+          "evidencia": "Data da vistoria: 05/06/2025"
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Sérgio Tavares",
+          "registro": "CREA-MG 998877",
+          "evidencia": "Responsável: Sérgio Tavares, CREA-MG 998877."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_15.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "casa",
+          "evidencia": "Imóvel residencial: casa, Rua Monte Verde, 19, Curitiba-PR."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua Monte Verde, 19, Curitiba-PR",
+          "evidencia": "Rua Monte Verde, 19, Curitiba-PR."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área do terreno",
+          "valor_texto": "200",
+          "unidade": "m²",
+          "evidencia": "Área do terreno 200 m²"
+        },
+        {
+          "rotulo": "área construída",
+          "valor_texto": "135",
+          "unidade": "m²",
+          "evidencia": "área construída 135 m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2003",
+          "contexto": null,
+          "evidencia": "Ano 2003."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 590.000,00",
+          "evidencia": "Avaliação apresentada em R$ 590.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "39.240",
+          "evidencia": "Matrícula 39.240."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "COM_ONUS",
+          "texto": "hipoteca ativa",
+          "evidencia": "A certidão consultada informa hipoteca ativa."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "12/06/2025",
+          "evidencia": "Inspeção: 12/06/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Patrícia Gomes",
+          "registro": "CREA-PR 123123",
+          "evidencia": "Patrícia Gomes, Eng. Civil, CREA-PR 123123."
+        }
+      ]
+    }
+  },
+  {
+    "arquivo": "laudo_16.txt",
+    "extracao_bruta": {
+      "tipos_imovel": [
+        {
+          "valor_texto": "Unidade comercial",
+          "evidencia": "Unidade comercial 14, Rua do Sol, 250, Campinas/SP."
+        }
+      ],
+      "enderecos": [
+        {
+          "valor_texto": "Rua do Sol, 250, Campinas/SP",
+          "evidencia": "Unidade comercial 14, Rua do Sol, 250, Campinas/SP."
+        }
+      ],
+      "areas": [
+        {
+          "rotulo": "área privativa",
+          "valor_texto": "42,00",
+          "unidade": "m²",
+          "evidencia": "Área privativa: 42,00 m²."
+        },
+        {
+          "rotulo": "área total",
+          "valor_texto": "67,00",
+          "unidade": "m²",
+          "evidencia": "Área total: 67,00m²."
+        }
+      ],
+      "anos": [
+        {
+          "tipo": "ANO",
+          "valor_texto": "2010",
+          "contexto": "Construído em 2010",
+          "evidencia": "Construído em 2010."
+        }
+      ],
+      "valores_avaliacao": [
+        {
+          "valor_texto": "R$ 288.000,00",
+          "evidencia": "Valor de avaliação: R$ 288.000,00."
+        }
+      ],
+      "matriculas": [
+        {
+          "valor_texto": "101.010",
+          "evidencia": "Matrícula 101.010."
+        }
+      ],
+      "onus": [
+        {
+          "classificacao": "NAO_INFORMADO",
+          "texto": "sem informação",
+          "evidencia": "Ônus: sem informação."
+        }
+      ],
+      "datas_vistoria": [
+        {
+          "valor_texto": "19/06/2025",
+          "evidencia": "Vistoria realizada em 19/06/2025."
+        }
+      ],
+      "responsaveis_tecnicos": [
+        {
+          "nome": "Guilherme Rocha",
+          "registro": "CREA-SP 501010",
+          "evidencia": "Responsável técnico: Guilherme Rocha, CREA-SP 501010."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+2026-09-27 20:38:36,459 | INFO | === INÍCIO DA AUTOMAÇÃO ===
+2026-09-27 20:38:36,459 | INFO | Iniciando leitura do arquivo: C:\Users\luan_\OneDrive\Área de Trabalho\case-bari\data\propostas_credito.csv
+2026-09-27 20:38:36,496 | INFO | Arquivo carregado com sucesso: 6400 linhas e 19 colunas.
+2026-09-27 20:38:36,496 | INFO | Validando estrutura do arquivo.
+2026-09-27 20:38:36,496 | INFO | Estrutura do arquivo validada com sucesso.
+2026-09-27 20:38:36,496 | INFO | Iniciando tratamento dos dados.
+2026-09-27 20:38:36,514 | INFO | Terrenos removidos: 535. Registros restantes: 5865.
+2026-09-27 20:38:36,627 | WARNING | 1 registro(s) com etapa acima de 6. Para a análise do funil, foram mapeados para a etapa 6.
+2026-09-27 20:38:36,634 | INFO | Propostas com LTV solicitado acima de 60%: 904.
+2026-09-27 20:38:36,635 | WARNING | 1 registro(s) com idade inferior a 18 anos. Os registros foram preservados.
+2026-09-27 20:38:36,670 | WARNING | 295 registro(s) possuem data de assinatura anterior à data de entrada. Os valores originais foram preservados.
+2026-09-27 20:38:36,671 | INFO | Tratamento concluído. Linhas recebidas: 6400. Linhas utilizadas: 5865.
+2026-09-27 20:38:36,673 | INFO | Iniciando cálculo das métricas.
+2026-09-27 20:38:36,718 | INFO | Métricas calculadas com sucesso. Conversão geral: 19.23%.
+2026-09-27 20:38:36,719 | INFO | === AUTOMAÇÃO CONCLUÍDA COM SUCESSO ===

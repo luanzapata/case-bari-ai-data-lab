@@ -1,0 +1,22 @@
+2026-09-27 21:14:25,907 | INFO | === INÍCIO DA AUTOMAÇÃO ===
+2026-09-27 21:14:25,908 | INFO | Iniciando leitura do arquivo: tests\fixtures\com_coluna_nova.csv
+2026-09-27 21:14:25,946 | INFO | Arquivo carregado com sucesso: 6400 linhas e 20 colunas.
+2026-09-27 21:14:25,946 | INFO | Validando estrutura do arquivo.
+2026-09-27 21:14:25,947 | WARNING | Novas colunas identificadas: nova_coluna_teste. Elas serão preservadas.
+2026-09-27 21:14:25,947 | INFO | Estrutura do arquivo validada com sucesso.
+2026-09-27 21:14:25,947 | INFO | Iniciando tratamento dos dados.
+2026-09-27 21:14:25,956 | INFO | Terrenos removidos: 535. Registros restantes: 5865.
+2026-09-27 21:14:26,013 | WARNING | 1 registro(s) com etapa acima de 6. Para a análise do funil, foram mapeados para a etapa 6.
+2026-09-27 21:14:26,017 | INFO | Propostas com LTV solicitado acima de 60%: 904.
+2026-09-27 21:14:26,017 | WARNING | 1 registro(s) com idade inferior a 18 anos. Os registros foram preservados.
+2026-09-27 21:14:26,048 | WARNING | 295 registro(s) possuem data de assinatura anterior à data de entrada. Os valores originais foram preservados.
+2026-09-27 21:14:26,049 | INFO | Tratamento concluído. Linhas recebidas: 6400. Linhas utilizadas: 5865.
+2026-09-27 21:14:26,050 | INFO | Iniciando cálculo das métricas.
+2026-09-27 21:14:26,087 | INFO | Métricas calculadas com sucesso. Conversão geral: 19.23%.
+2026-09-27 21:14:26,088 | INFO | Iniciando geração dos gráficos.
+2026-09-27 21:14:26,770 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-27 21:14:26,772 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-27 21:14:27,291 | INFO | 3 gráficos gerados com sucesso.
+2026-09-27 21:14:27,309 | INFO | Iniciando geração do relatório HTML.
+2026-09-27 21:14:27,333 | INFO | Relatório HTML gerado com sucesso: C:\Users\luan_\OneDrive\Área de Trabalho\case-bari\reports\relatorio_funil_20260927_211425.html
+2026-09-27 21:14:27,344 | INFO | === AUTOMAÇÃO CONCLUÍDA COM SUCESSO ===

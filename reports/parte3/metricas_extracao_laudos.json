@@ -1,0 +1,28 @@
+{
+  "laudos_no_gabarito": 17,
+  "laudos_processados": 16,
+  "macrocampos_por_laudo": 9,
+  "total_avaliacoes": 153,
+  "total_acertos": 136,
+  "acuracia_geral_pct": 88.89,
+  "acuracia_por_campo_pct": {
+    "tipo_imovel": 88.24,
+    "endereco": 70.59,
+    "areas": 94.12,
+    "ano": 94.12,
+    "valor_avaliacao_brl": 94.12,
+    "matricula": 94.12,
+    "onus": 76.47,
+    "data_vistoria": 94.12,
+    "responsavel_tecnico": 94.12
+  },
+  "alucinacoes": 0,
+  "oportunidades_de_alucinacao": 88,
+  "taxa_alucinacao_pct": 0.0,
+  "casos_com_campos_ausentes": 3,
+  "ausencias_identificadas_corretamente": 3,
+  "taxa_acerto_ausencias_pct": 100.0,
+  "casos_com_divergencia": 0,
+  "divergencias_identificadas_corretamente": 0,
+  "taxa_acerto_divergencias_pct": 0
+}

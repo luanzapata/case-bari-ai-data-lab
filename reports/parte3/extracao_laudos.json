@@ -1,0 +1,488 @@
+[
+  {
+    "arquivo": "laudo_01.txt",
+    "tipo_imovel": "apartamento residencial",
+    "endereco": "Rua das Acácias, 145, ap. 82 - Vila Mariana, São Paulo/SP",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": 78.4,
+      "total_m2": 102.1,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2014,
+    "ano_contexto": "Ano de construção",
+    "valor_avaliacao_brl": 642000.0,
+    "matricula": "184.772",
+    "onus": {
+      "status": "SEM_ONUS",
+      "descricao": "não foram identificados ônus na certidão analisada."
+    },
+    "data_vistoria": "2025-03-12",
+    "responsavel_tecnico": {
+      "nome": "Marina Albuquerque",
+      "registro": "CREA-SP 5061234567"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_02.txt",
+    "tipo_imovel": "casa térrea",
+    "endereco": "Av. Central, 900, bloco B, Belo Horizonte - MG",
+    "areas": {
+      "terreno_m2": 250.0,
+      "construida_m2": 146.0,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2008,
+    "ano_contexto": "Construída em 2008.",
+    "valor_avaliacao_brl": 680000.0,
+    "matricula": "45.981",
+    "onus": {
+      "status": "SEM_ONUS",
+      "descricao": "sem gravames conhecidos"
+    },
+    "data_vistoria": "2025-03-18",
+    "responsavel_tecnico": {
+      "nome": "Carlos Henrique Moura",
+      "registro": "CAU A123456-7"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_03.txt",
+    "tipo_imovel": "sala comercial",
+    "endereco": "Rua do Comércio, 77, Curitiba/PR",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": 54.8,
+      "comum_m2": 18.2
+    },
+    "ano": null,
+    "ano_contexto": "Idade informada no documento: 11 anos",
+    "valor_avaliacao_brl": 395500.0,
+    "matricula": "77.201",
+    "onus": {
+      "status": "NAO_VERIFICADO",
+      "descricao": "Consta alienação fiduciária em favor de instituição financeira; recomenda-se atualização da certidão."
+    },
+    "data_vistoria": "2025-03-22",
+    "responsavel_tecnico": {
+      "nome": "Beatriz Nunes",
+      "registro": "CAU A987654-3"
+    },
+    "status_extracao": "PARCIAL",
+    "campos_ausentes": [
+      "ano"
+    ],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_04.txt",
+    "tipo_imovel": "terreno urbano",
+    "endereco": "Lote 18, Quadra F, Rua Ipê Amarelo, Goiânia/GO",
+    "areas": {
+      "terreno_m2": 360.0,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": null,
+    "ano_contexto": "não se aplica",
+    "valor_avaliacao_brl": 218000.0,
+    "matricula": "102.334",
+    "onus": {
+      "status": "NAO_INFORMADO",
+      "descricao": "nada informado no documento apresentado"
+    },
+    "data_vistoria": "2025-04-02",
+    "responsavel_tecnico": {
+      "nome": "Paulo Sérgio Reis",
+      "registro": "CREA 12345/D-GO"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_05.txt",
+    "tipo_imovel": "imóvel rural denominado Sítio Boa Vista",
+    "endereco": "Município de Campinas, UF SP",
+    "areas": {
+      "terreno_m2": 48000.0,
+      "construida_m2": 310.0,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 1999,
+    "ano_contexto": "Ano das edificações",
+    "valor_avaliacao_brl": 1275000.0,
+    "matricula": "32.110",
+    "onus": {
+      "status": "COM_ONUS",
+      "descricao": "reserva legal registrada; não foi apontada hipoteca"
+    },
+    "data_vistoria": "2025-04-07",
+    "responsavel_tecnico": {
+      "nome": "João A. Farias",
+      "registro": "CREA-SP 5076543210"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_06.txt",
+    "tipo_imovel": "Apartamento",
+    "endereco": "Rua das Palmeiras, 1.210, Recife/PE, CEP 50000-100",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": 61.0,
+      "total_m2": 84.0,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2018,
+    "ano_contexto": "construção",
+    "valor_avaliacao_brl": 455000.0,
+    "matricula": "9.876",
+    "onus": {
+      "status": "NAO_INFORMADO",
+      "descricao": "Não consta informação sobre ônus."
+    },
+    "data_vistoria": "2025-04-15",
+    "responsavel_tecnico": {
+      "nome": "Fernanda Lins",
+      "registro": "CREA 18001/PE"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_07.txt",
+    "tipo_imovel": "Casa geminada",
+    "endereco": "Rua Azul, 33, bairro Jardim Europa, Porto Alegre - RS",
+    "areas": {
+      "terreno_m2": 125.0,
+      "construida_m2": 92.5,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2011,
+    "ano_contexto": "Ano de construção informado pelo proprietário",
+    "valor_avaliacao_brl": 372000.0,
+    "matricula": "66.504",
+    "onus": {
+      "status": "COM_ONUS",
+      "descricao": "Há penhora averbada, conforme documento consultado em 20/04/2025."
+    },
+    "data_vistoria": "2025-04-20",
+    "responsavel_tecnico": {
+      "nome": "Rafael Costa",
+      "registro": "CREA-RS 222333"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_08.txt",
+    "tipo_imovel": "loja térrea com sobreloja",
+    "endereco": "Rua Sete de Setembro, 410, Salvador/BA",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": 118.0,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2005,
+    "ano_contexto": "Ano de referência",
+    "valor_avaliacao_brl": 910000.0,
+    "matricula": null,
+    "onus": {
+      "status": "NAO_VERIFICADO",
+      "descricao": "não foi possível verificar por ausência de certidão"
+    },
+    "data_vistoria": "2025-04-29",
+    "responsavel_tecnico": {
+      "nome": "Luciana Prado",
+      "registro": "CNAI 12345"
+    },
+    "status_extracao": "PARCIAL",
+    "campos_ausentes": [
+      "matricula"
+    ],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_09.txt",
+    "tipo_imovel": "Casa residencial",
+    "endereco": "Alameda das Flores 88, Florianópolis/SC",
+    "areas": {
+      "terreno_m2": 420.0,
+      "construida_m2": 198.0,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2020,
+    "ano_contexto": "Construção",
+    "valor_avaliacao_brl": 1080000.0,
+    "matricula": "12.909",
+    "onus": {
+      "status": "SEM_ONUS",
+      "descricao": "A certidão indica inexistência de ônus reais."
+    },
+    "data_vistoria": "2025-05-03",
+    "responsavel_tecnico": {
+      "nome": "Thiago Martins",
+      "registro": "CREA-SC 7654321"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_10.txt",
+    "tipo_imovel": "apartamento",
+    "endereco": "SQN 214, bloco C, apto 407, Condomínio Parque Norte, Brasília/DF",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": 96.3,
+      "total_m2": 127.6,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2016,
+    "ano_contexto": "Ano de conclusão",
+    "valor_avaliacao_brl": 735000.0,
+    "matricula": "201.443",
+    "onus": {
+      "status": "COM_ONUS",
+      "descricao": "alienação fiduciária mencionada na matrícula"
+    },
+    "data_vistoria": "2025-05-09",
+    "responsavel_tecnico": {
+      "nome": "Denise Carvalho",
+      "registro": "CREA-DF 112233"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_11.txt",
+    "tipo_imovel": "Terreno para incorporação",
+    "endereco": "Rua Projetada 4, s/n, Santos, SP",
+    "areas": {
+      "terreno_m2": 1020.0,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": null,
+    "ano_contexto": "ano de construção",
+    "valor_avaliacao_brl": 2450000.0,
+    "matricula": "88.710",
+    "onus": {
+      "status": "NAO_INFORMADO",
+      "descricao": "Ônus reais não informados."
+    },
+    "data_vistoria": "2025-05-16",
+    "responsavel_tecnico": {
+      "nome": "Marcos Vieira",
+      "registro": "CREA-SP 5099988776"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_12.txt",
+    "tipo_imovel": "casa de alto padrão",
+    "endereco": "Rua das Bromélias, 500, Lago Sul, Brasília - DF",
+    "areas": {
+      "terreno_m2": 600.0,
+      "construida_m2": 285.0,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2012,
+    "ano_contexto": null,
+    "valor_avaliacao_brl": 2180000.0,
+    "matricula": "54.122",
+    "onus": {
+      "status": "COM_ONUS",
+      "descricao": "servidão de passagem registrada"
+    },
+    "data_vistoria": "2025-05-23",
+    "responsavel_tecnico": {
+      "nome": "Andréa Melo",
+      "registro": "CAU A445566-1"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_13.txt",
+    "tipo_imovel": "Apartamento",
+    "endereco": "Av. Brasil 1770, ap. 1201, Rio de Janeiro/RJ",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": 155.0,
+      "util_m2": 112.0,
+      "comum_m2": null
+    },
+    "ano": 1987,
+    "ano_contexto": "Ano de construção",
+    "valor_avaliacao_brl": 1320000.0,
+    "matricula": "145.230",
+    "onus": {
+      "status": "COM_ONUS",
+      "descricao": "penhora cancelada, conforme averbação; documento não informa data do cancelamento"
+    },
+    "data_vistoria": "2025-05-30",
+    "responsavel_tecnico": {
+      "nome": "Eduardo Sampaio",
+      "registro": "CNAI 67890"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_14.txt",
+    "tipo_imovel": "galpão industrial",
+    "endereco": "Rodovia BR-116, km 12, Betim/MG",
+    "areas": {
+      "terreno_m2": 3000.0,
+      "construida_m2": null,
+      "coberta_m2": 1450.0,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": null,
+    "ano_contexto": "Idade informada no documento: 18",
+    "valor_avaliacao_brl": 3900000.0,
+    "matricula": "70.008",
+    "onus": {
+      "status": "SEM_ONUS",
+      "descricao": "Não há menção a ônus."
+    },
+    "data_vistoria": "2025-06-05",
+    "responsavel_tecnico": {
+      "nome": "Sérgio Tavares",
+      "registro": "CREA-MG 998877"
+    },
+    "status_extracao": "PARCIAL",
+    "campos_ausentes": [
+      "ano"
+    ],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_15.txt",
+    "tipo_imovel": "casa",
+    "endereco": "Rua Monte Verde, 19, Curitiba-PR",
+    "areas": {
+      "terreno_m2": 200.0,
+      "construida_m2": 135.0,
+      "coberta_m2": null,
+      "privativa_m2": null,
+      "total_m2": null,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2003,
+    "ano_contexto": null,
+    "valor_avaliacao_brl": 590000.0,
+    "matricula": "39.240",
+    "onus": {
+      "status": "COM_ONUS",
+      "descricao": "hipoteca ativa"
+    },
+    "data_vistoria": "2025-06-12",
+    "responsavel_tecnico": {
+      "nome": "Patrícia Gomes",
+      "registro": "CREA-PR 123123"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  },
+  {
+    "arquivo": "laudo_16.txt",
+    "tipo_imovel": "Unidade comercial",
+    "endereco": "Rua do Sol, 250, Campinas/SP",
+    "areas": {
+      "terreno_m2": null,
+      "construida_m2": null,
+      "coberta_m2": null,
+      "privativa_m2": 42.0,
+      "total_m2": 67.0,
+      "util_m2": null,
+      "comum_m2": null
+    },
+    "ano": 2010,
+    "ano_contexto": "Construído em 2010",
+    "valor_avaliacao_brl": 288000.0,
+    "matricula": "101.010",
+    "onus": {
+      "status": "NAO_INFORMADO",
+      "descricao": "sem informação"
+    },
+    "data_vistoria": "2025-06-19",
+    "responsavel_tecnico": {
+      "nome": "Guilherme Rocha",
+      "registro": "CREA-SP 501010"
+    },
+    "status_extracao": "OK",
+    "campos_ausentes": [],
+    "divergencias": []
+  }
+]

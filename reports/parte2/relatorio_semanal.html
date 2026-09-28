@@ -1,0 +1,387 @@
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Relatório Semanal do Funil</title>
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f6f8;
+    color: #222;
+    margin: 0;
+    padding: 30px;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+    background-color: white;
+    padding: 40px;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-top: 45px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+}
+
+.subtitulo {
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(180px, 1fr)
+    );
+    gap: 15px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.card .valor {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f1f2f4;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.alerta {
+    background-color: #fafafa;
+    border-left: 4px solid #888;
+    padding: 15px 20px;
+}
+
+.fonte {
+    color: #666;
+    font-size: 13px;
+    margin-top: 50px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Relatório semanal do funil de crédito</h1>
+
+<p class="subtitulo">
+Período analisado:
+<strong>11/01/2024</strong>
+a
+<strong>29/12/2025</strong>
+</p>
+
+
+<div class="cards">
+
+<div class="card">
+Propostas analisadas
+
+<div class="valor">
+5,865
+</div>
+
+</div>
+
+
+<div class="card">
+Contratações
+
+<div class="valor">
+1,128
+</div>
+
+</div>
+
+
+<div class="card">
+Taxa de conversão
+
+<div class="valor">
+19.2%
+</div>
+
+</div>
+
+
+<div class="card">
+Volume solicitado
+
+<div class="valor">
+R$ 2261,2 mi
+</div>
+
+</div>
+
+
+<div class="card">
+Volume potencial perdido
+
+<div class="valor">
+R$ 1844,5 mi
+</div>
+
+</div>
+
+</div>
+
+
+<h2>Perdas por etapa</h2>
+
+<p>
+O valor apresentado representa o volume solicitado das propostas
+que não chegaram à contratação, e não receita ou lucro perdido pelo Bari.
+</p>
+
+<img
+    src="assets/perdas_etapa.png"
+    alt="Volume potencial perdido por etapa"
+>
+
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Etapa</th>
+      <th>Propostas perdidas</th>
+      <th>Volume potencial perdido</th>
+      <th>% do volume perdido</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Simulação</td>
+      <td>256</td>
+      <td>R$ 97,9 mi</td>
+      <td>5.3%</td>
+    </tr>
+    <tr>
+      <td>Lead</td>
+      <td>909</td>
+      <td>R$ 346,8 mi</td>
+      <td>18.8%</td>
+    </tr>
+    <tr>
+      <td>Análise de crédito</td>
+      <td>1657</td>
+      <td>R$ 649,8 mi</td>
+      <td>35.2%</td>
+    </tr>
+    <tr>
+      <td>Avaliação do imóvel</td>
+      <td>1151</td>
+      <td>R$ 453,8 mi</td>
+      <td>24.6%</td>
+    </tr>
+    <tr>
+      <td>Formalização</td>
+      <td>764</td>
+      <td>R$ 296,1 mi</td>
+      <td>16.1%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2>Conversão por canal</h2>
+
+<img
+    src="assets/conversao_canal.png"
+    alt="Taxa de conversão por canal"
+>
+
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Canal</th>
+      <th>Propostas</th>
+      <th>Contratadas</th>
+      <th>Conversão</th>
+      <th>Conversão em volume</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Parceria</td>
+      <td>889</td>
+      <td>203</td>
+      <td>22.8%</td>
+      <td>21.6%</td>
+    </tr>
+    <tr>
+      <td>Indicação</td>
+      <td>910</td>
+      <td>197</td>
+      <td>21.6%</td>
+      <td>20.8%</td>
+    </tr>
+    <tr>
+      <td>Mídia paga</td>
+      <td>1166</td>
+      <td>250</td>
+      <td>21.4%</td>
+      <td>20.8%</td>
+    </tr>
+    <tr>
+      <td>Organico</td>
+      <td>1273</td>
+      <td>255</td>
+      <td>20.0%</td>
+      <td>20.3%</td>
+    </tr>
+    <tr>
+      <td>Correspondente</td>
+      <td>1627</td>
+      <td>223</td>
+      <td>13.7%</td>
+      <td>12.3%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2>Evolução da conversão</h2>
+
+<img
+    src="assets/conversao_mensal.png"
+    alt="Evolução mensal da conversão"
+>
+
+
+<h2>Principais motivos de perda</h2>
+
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Motivo</th>
+      <th>Propostas</th>
+      <th>Volume potencial perdido</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sem retorno</td>
+      <td>1495</td>
+      <td>R$ 575,1 mi</td>
+    </tr>
+    <tr>
+      <td>Desistiu</td>
+      <td>1392</td>
+      <td>R$ 550,6 mi</td>
+    </tr>
+    <tr>
+      <td>Reprovada crédito</td>
+      <td>844</td>
+      <td>R$ 325,0 mi</td>
+    </tr>
+    <tr>
+      <td>Problema garantia</td>
+      <td>608</td>
+      <td>R$ 241,1 mi</td>
+    </tr>
+    <tr>
+      <td>Documentação pendente</td>
+      <td>398</td>
+      <td>R$ 152,6 mi</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h2>Alertas de qualidade dos dados</h2>
+
+<div class="alerta">
+
+<ul>
+
+        <li>
+            LTV solicitado acima de 60%:
+            <strong>904</strong>
+        </li>
+
+        <li>
+            IDs duplicados:
+            <strong>0</strong>
+        </li>
+
+        <li>
+            Idades inferiores a 18 anos:
+            <strong>1</strong>
+        </li>
+
+        <li>
+            Datas de assinatura inconsistentes:
+            <strong>1</strong>
+        </li>
+    
+</ul>
+
+<p>
+Os alertas acima não significam que os registros foram
+automaticamente removidos. Situações sem correção evidente foram
+preservadas para evitar alterações arbitrárias nos dados.
+</p>
+
+</div>
+
+
+<p class="fonte">
+
+<strong>Fonte:</strong>
+elaboração própria a partir do arquivo
+<code>propostas_credito.csv</code>
+fornecido no desafio prático.
+
+<br><br>
+
+Valores financeiros utilizam o valor solicitado
+como proxy de volume potencial.
+
+</p>
+
+</div>
+
+</body>
+
+</html>

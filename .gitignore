@@ -1,0 +1,27 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Logs gerados automaticamente
+logs/**/*.log
+
+# Mantém apenas os logs de exemplo
+!logs/parte2/exemplos/*.log
+!logs/parte3/exemplos/*.log
+
+# Variáveis de ambiente / segredos
+.env
+
+# Arquivos temporários
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

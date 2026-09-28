@@ -1,0 +1,154 @@
+﻿arquivo,campo,correto,esperado,obtido
+laudo_01.txt,tipo_imovel,True,"""apartamento residencial""","""apartamento residencial"""
+laudo_01.txt,endereco,True,"""Rua das Acácias, 145, ap. 82 - Vila Mariana, São Paulo/SP""","""Rua das Acácias, 145, ap. 82 - Vila Mariana, São Paulo/SP"""
+laudo_01.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 78.4, ""total_m2"": 102.1, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 78.4, ""total_m2"": 102.1, ""util_m2"": null, ""comum_m2"": null}"
+laudo_01.txt,ano,True,2014,2014
+laudo_01.txt,valor_avaliacao_brl,True,642000.0,642000.0
+laudo_01.txt,matricula,True,"""184.772""","""184.772"""
+laudo_01.txt,onus,True,"""SEM_ONUS""","{""status"": ""SEM_ONUS"", ""descricao"": ""não foram identificados ônus na certidão analisada.""}"
+laudo_01.txt,data_vistoria,True,"""2025-03-12""","""2025-03-12"""
+laudo_01.txt,responsavel_tecnico,True,"{""nome"": ""Marina Albuquerque"", ""registro"": ""CREA-SP 5061234567""}","{""nome"": ""Marina Albuquerque"", ""registro"": ""CREA-SP 5061234567""}"
+laudo_02.txt,tipo_imovel,True,"""casa térrea""","""casa térrea"""
+laudo_02.txt,endereco,True,"""Av. Central, 900, bloco B, Belo Horizonte - MG""","""Av. Central, 900, bloco B, Belo Horizonte - MG"""
+laudo_02.txt,areas,True,"{""terreno_m2"": 250.0, ""construida_m2"": 146.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 250.0, ""construida_m2"": 146.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_02.txt,ano,True,2008,2008
+laudo_02.txt,valor_avaliacao_brl,True,680000.0,680000.0
+laudo_02.txt,matricula,True,"""45.981""","""45.981"""
+laudo_02.txt,onus,True,"""SEM_ONUS""","{""status"": ""SEM_ONUS"", ""descricao"": ""sem gravames conhecidos""}"
+laudo_02.txt,data_vistoria,True,"""2025-03-18""","""2025-03-18"""
+laudo_02.txt,responsavel_tecnico,True,"{""nome"": ""Carlos Henrique Moura"", ""registro"": ""CAU A123456-7""}","{""nome"": ""Carlos Henrique Moura"", ""registro"": ""CAU A123456-7""}"
+laudo_03.txt,tipo_imovel,True,"""sala comercial""","""sala comercial"""
+laudo_03.txt,endereco,False,"""sala comercial 503, Edifício Horizonte, Rua do Comércio, 77, Curitiba/PR""","""Rua do Comércio, 77, Curitiba/PR"""
+laudo_03.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": 54.8, ""comum_m2"": 18.2}","{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": 54.8, ""comum_m2"": 18.2}"
+laudo_03.txt,ano,True,null,null
+laudo_03.txt,valor_avaliacao_brl,True,395500.0,395500.0
+laudo_03.txt,matricula,True,"""77.201""","""77.201"""
+laudo_03.txt,onus,False,"""COM_ONUS""","{""status"": ""NAO_VERIFICADO"", ""descricao"": ""Consta alienação fiduciária em favor de instituição financeira; recomenda-se atualização da certidão.""}"
+laudo_03.txt,data_vistoria,True,"""2025-03-22""","""2025-03-22"""
+laudo_03.txt,responsavel_tecnico,True,"{""nome"": ""Beatriz Nunes"", ""registro"": ""CAU A987654-3""}","{""nome"": ""Beatriz Nunes"", ""registro"": ""CAU A987654-3""}"
+laudo_04.txt,tipo_imovel,True,"""terreno urbano""","""terreno urbano"""
+laudo_04.txt,endereco,True,"""Lote 18, Quadra F, Rua Ipê Amarelo, Goiânia/GO""","""Lote 18, Quadra F, Rua Ipê Amarelo, Goiânia/GO"""
+laudo_04.txt,areas,True,"{""terreno_m2"": 360.0, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 360.0, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_04.txt,ano,True,null,null
+laudo_04.txt,valor_avaliacao_brl,True,218000.0,218000.0
+laudo_04.txt,matricula,True,"""102.334""","""102.334"""
+laudo_04.txt,onus,True,"""NAO_INFORMADO""","{""status"": ""NAO_INFORMADO"", ""descricao"": ""nada informado no documento apresentado""}"
+laudo_04.txt,data_vistoria,True,"""2025-04-02""","""2025-04-02"""
+laudo_04.txt,responsavel_tecnico,True,"{""nome"": ""Paulo Sérgio Reis"", ""registro"": ""CREA 12345/D-GO""}","{""nome"": ""Paulo Sérgio Reis"", ""registro"": ""CREA 12345/D-GO""}"
+laudo_05.txt,tipo_imovel,False,"""imóvel rural""","""imóvel rural denominado Sítio Boa Vista"""
+laudo_05.txt,endereco,False,"""Sítio Boa Vista, Campinas/SP""","""Município de Campinas, UF SP"""
+laudo_05.txt,areas,True,"{""terreno_m2"": 48000.0, ""construida_m2"": 310.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 48000.0, ""construida_m2"": 310.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_05.txt,ano,True,1999,1999
+laudo_05.txt,valor_avaliacao_brl,True,1275000.0,1275000.0
+laudo_05.txt,matricula,True,"""32.110""","""32.110"""
+laudo_05.txt,onus,True,"""COM_ONUS""","{""status"": ""COM_ONUS"", ""descricao"": ""reserva legal registrada; não foi apontada hipoteca""}"
+laudo_05.txt,data_vistoria,True,"""2025-04-07""","""2025-04-07"""
+laudo_05.txt,responsavel_tecnico,True,"{""nome"": ""João A. Farias"", ""registro"": ""CREA-SP 5076543210""}","{""nome"": ""João A. Farias"", ""registro"": ""CREA-SP 5076543210""}"
+laudo_06.txt,tipo_imovel,True,"""apartamento""","""Apartamento"""
+laudo_06.txt,endereco,True,"""Rua das Palmeiras, 1.210, Recife/PE, CEP 50000-100""","""Rua das Palmeiras, 1.210, Recife/PE, CEP 50000-100"""
+laudo_06.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 61.0, ""total_m2"": 84.0, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 61.0, ""total_m2"": 84.0, ""util_m2"": null, ""comum_m2"": null}"
+laudo_06.txt,ano,True,2018,2018
+laudo_06.txt,valor_avaliacao_brl,True,455000.0,455000.0
+laudo_06.txt,matricula,True,"""9.876""","""9.876"""
+laudo_06.txt,onus,True,"""NAO_INFORMADO""","{""status"": ""NAO_INFORMADO"", ""descricao"": ""Não consta informação sobre ônus.""}"
+laudo_06.txt,data_vistoria,True,"""2025-04-15""","""2025-04-15"""
+laudo_06.txt,responsavel_tecnico,True,"{""nome"": ""Fernanda Lins"", ""registro"": ""CREA 18001/PE""}","{""nome"": ""Fernanda Lins"", ""registro"": ""CREA 18001/PE""}"
+laudo_07.txt,tipo_imovel,True,"""casa geminada""","""Casa geminada"""
+laudo_07.txt,endereco,True,"""Rua Azul, 33, bairro Jardim Europa, Porto Alegre - RS""","""Rua Azul, 33, bairro Jardim Europa, Porto Alegre - RS"""
+laudo_07.txt,areas,True,"{""terreno_m2"": 125.0, ""construida_m2"": 92.5, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 125.0, ""construida_m2"": 92.5, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_07.txt,ano,True,2011,2011
+laudo_07.txt,valor_avaliacao_brl,True,372000.0,372000.0
+laudo_07.txt,matricula,True,"""66.504""","""66.504"""
+laudo_07.txt,onus,True,"""COM_ONUS""","{""status"": ""COM_ONUS"", ""descricao"": ""Há penhora averbada, conforme documento consultado em 20/04/2025.""}"
+laudo_07.txt,data_vistoria,True,"""2025-04-20""","""2025-04-20"""
+laudo_07.txt,responsavel_tecnico,True,"{""nome"": ""Rafael Costa"", ""registro"": ""CREA-RS 222333""}","{""nome"": ""Rafael Costa"", ""registro"": ""CREA-RS 222333""}"
+laudo_08.txt,tipo_imovel,True,"""loja térrea com sobreloja""","""loja térrea com sobreloja"""
+laudo_08.txt,endereco,True,"""Rua Sete de Setembro, 410, Salvador/BA""","""Rua Sete de Setembro, 410, Salvador/BA"""
+laudo_08.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": 118.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": null, ""construida_m2"": 118.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_08.txt,ano,True,2005,2005
+laudo_08.txt,valor_avaliacao_brl,True,910000.0,910000.0
+laudo_08.txt,matricula,True,null,null
+laudo_08.txt,onus,True,"""NAO_VERIFICADO""","{""status"": ""NAO_VERIFICADO"", ""descricao"": ""não foi possível verificar por ausência de certidão""}"
+laudo_08.txt,data_vistoria,True,"""2025-04-29""","""2025-04-29"""
+laudo_08.txt,responsavel_tecnico,True,"{""nome"": ""Luciana Prado"", ""registro"": ""CNAI 12345""}","{""nome"": ""Luciana Prado"", ""registro"": ""CNAI 12345""}"
+laudo_09.txt,tipo_imovel,True,"""casa residencial""","""Casa residencial"""
+laudo_09.txt,endereco,True,"""Alameda das Flores 88, Florianópolis/SC""","""Alameda das Flores 88, Florianópolis/SC"""
+laudo_09.txt,areas,True,"{""terreno_m2"": 420.0, ""construida_m2"": 198.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 420.0, ""construida_m2"": 198.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_09.txt,ano,True,2020,2020
+laudo_09.txt,valor_avaliacao_brl,True,1080000.0,1080000.0
+laudo_09.txt,matricula,True,"""12.909""","""12.909"""
+laudo_09.txt,onus,True,"""SEM_ONUS""","{""status"": ""SEM_ONUS"", ""descricao"": ""A certidão indica inexistência de ônus reais.""}"
+laudo_09.txt,data_vistoria,True,"""2025-05-03""","""2025-05-03"""
+laudo_09.txt,responsavel_tecnico,True,"{""nome"": ""Thiago Martins"", ""registro"": ""CREA-SC 7654321""}","{""nome"": ""Thiago Martins"", ""registro"": ""CREA-SC 7654321""}"
+laudo_10.txt,tipo_imovel,True,"""apartamento""","""apartamento"""
+laudo_10.txt,endereco,False,"""Condomínio Parque Norte, Brasília/DF, SQN 214, bloco C, apto 407""","""SQN 214, bloco C, apto 407, Condomínio Parque Norte, Brasília/DF"""
+laudo_10.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 96.3, ""total_m2"": 127.6, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 96.3, ""total_m2"": 127.6, ""util_m2"": null, ""comum_m2"": null}"
+laudo_10.txt,ano,True,2016,2016
+laudo_10.txt,valor_avaliacao_brl,True,735000.0,735000.0
+laudo_10.txt,matricula,True,"""201.443""","""201.443"""
+laudo_10.txt,onus,True,"""COM_ONUS""","{""status"": ""COM_ONUS"", ""descricao"": ""alienação fiduciária mencionada na matrícula""}"
+laudo_10.txt,data_vistoria,True,"""2025-05-09""","""2025-05-09"""
+laudo_10.txt,responsavel_tecnico,True,"{""nome"": ""Denise Carvalho"", ""registro"": ""CREA-DF 112233""}","{""nome"": ""Denise Carvalho"", ""registro"": ""CREA-DF 112233""}"
+laudo_11.txt,tipo_imovel,True,"""terreno para incorporação""","""Terreno para incorporação"""
+laudo_11.txt,endereco,True,"""Rua Projetada 4, s/n, Santos, SP""","""Rua Projetada 4, s/n, Santos, SP"""
+laudo_11.txt,areas,True,"{""terreno_m2"": 1020.0, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 1020.0, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_11.txt,ano,True,null,null
+laudo_11.txt,valor_avaliacao_brl,True,2450000.0,2450000.0
+laudo_11.txt,matricula,True,"""88.710""","""88.710"""
+laudo_11.txt,onus,True,"""NAO_INFORMADO""","{""status"": ""NAO_INFORMADO"", ""descricao"": ""Ônus reais não informados.""}"
+laudo_11.txt,data_vistoria,True,"""2025-05-16""","""2025-05-16"""
+laudo_11.txt,responsavel_tecnico,True,"{""nome"": ""Marcos Vieira"", ""registro"": ""CREA-SP 5099988776""}","{""nome"": ""Marcos Vieira"", ""registro"": ""CREA-SP 5099988776""}"
+laudo_12.txt,tipo_imovel,True,"""casa de alto padrão""","""casa de alto padrão"""
+laudo_12.txt,endereco,True,"""Rua das Bromélias, 500, Lago Sul, Brasília - DF""","""Rua das Bromélias, 500, Lago Sul, Brasília - DF"""
+laudo_12.txt,areas,True,"{""terreno_m2"": 600.0, ""construida_m2"": 285.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 600.0, ""construida_m2"": 285.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_12.txt,ano,True,2012,2012
+laudo_12.txt,valor_avaliacao_brl,True,2180000.0,2180000.0
+laudo_12.txt,matricula,True,"""54.122""","""54.122"""
+laudo_12.txt,onus,True,"""COM_ONUS""","{""status"": ""COM_ONUS"", ""descricao"": ""servidão de passagem registrada""}"
+laudo_12.txt,data_vistoria,True,"""2025-05-23""","""2025-05-23"""
+laudo_12.txt,responsavel_tecnico,True,"{""nome"": ""Andréa Melo"", ""registro"": ""CAU A445566-1""}","{""nome"": ""Andréa Melo"", ""registro"": ""CAU A445566-1""}"
+laudo_13.txt,tipo_imovel,True,"""apartamento""","""Apartamento"""
+laudo_13.txt,endereco,True,"""Av. Brasil 1770, ap. 1201, Rio de Janeiro/RJ""","""Av. Brasil 1770, ap. 1201, Rio de Janeiro/RJ"""
+laudo_13.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": 155.0, ""util_m2"": 112.0, ""comum_m2"": null}","{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": 155.0, ""util_m2"": 112.0, ""comum_m2"": null}"
+laudo_13.txt,ano,True,1987,1987
+laudo_13.txt,valor_avaliacao_brl,True,1320000.0,1320000.0
+laudo_13.txt,matricula,True,"""145.230""","""145.230"""
+laudo_13.txt,onus,False,"""SEM_ONUS""","{""status"": ""COM_ONUS"", ""descricao"": ""penhora cancelada, conforme averbação; documento não informa data do cancelamento""}"
+laudo_13.txt,data_vistoria,True,"""2025-05-30""","""2025-05-30"""
+laudo_13.txt,responsavel_tecnico,True,"{""nome"": ""Eduardo Sampaio"", ""registro"": ""CNAI 67890""}","{""nome"": ""Eduardo Sampaio"", ""registro"": ""CNAI 67890""}"
+laudo_14.txt,tipo_imovel,True,"""galpão industrial""","""galpão industrial"""
+laudo_14.txt,endereco,True,"""Rodovia BR-116, km 12, Betim/MG""","""Rodovia BR-116, km 12, Betim/MG"""
+laudo_14.txt,areas,True,"{""terreno_m2"": 3000.0, ""construida_m2"": null, ""coberta_m2"": 1450.0, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 3000.0, ""construida_m2"": null, ""coberta_m2"": 1450.0, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_14.txt,ano,True,null,null
+laudo_14.txt,valor_avaliacao_brl,True,3900000.0,3900000.0
+laudo_14.txt,matricula,True,"""70.008""","""70.008"""
+laudo_14.txt,onus,False,"""NAO_INFORMADO""","{""status"": ""SEM_ONUS"", ""descricao"": ""Não há menção a ônus.""}"
+laudo_14.txt,data_vistoria,True,"""2025-06-05""","""2025-06-05"""
+laudo_14.txt,responsavel_tecnico,True,"{""nome"": ""Sérgio Tavares"", ""registro"": ""CREA-MG 998877""}","{""nome"": ""Sérgio Tavares"", ""registro"": ""CREA-MG 998877""}"
+laudo_15.txt,tipo_imovel,True,"""casa""","""casa"""
+laudo_15.txt,endereco,True,"""Rua Monte Verde, 19, Curitiba-PR""","""Rua Monte Verde, 19, Curitiba-PR"""
+laudo_15.txt,areas,True,"{""terreno_m2"": 200.0, ""construida_m2"": 135.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": 200.0, ""construida_m2"": 135.0, ""coberta_m2"": null, ""privativa_m2"": null, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}"
+laudo_15.txt,ano,True,2003,2003
+laudo_15.txt,valor_avaliacao_brl,True,590000.0,590000.0
+laudo_15.txt,matricula,True,"""39.240""","""39.240"""
+laudo_15.txt,onus,True,"""COM_ONUS""","{""status"": ""COM_ONUS"", ""descricao"": ""hipoteca ativa""}"
+laudo_15.txt,data_vistoria,True,"""2025-06-12""","""2025-06-12"""
+laudo_15.txt,responsavel_tecnico,True,"{""nome"": ""Patrícia Gomes"", ""registro"": ""CREA-PR 123123""}","{""nome"": ""Patrícia Gomes"", ""registro"": ""CREA-PR 123123""}"
+laudo_16.txt,tipo_imovel,True,"""unidade comercial""","""Unidade comercial"""
+laudo_16.txt,endereco,False,"""Unidade comercial 14, Rua do Sol, 250, Campinas/SP""","""Rua do Sol, 250, Campinas/SP"""
+laudo_16.txt,areas,True,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 42.0, ""total_m2"": 67.0, ""util_m2"": null, ""comum_m2"": null}","{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 42.0, ""total_m2"": 67.0, ""util_m2"": null, ""comum_m2"": null}"
+laudo_16.txt,ano,True,2010,2010
+laudo_16.txt,valor_avaliacao_brl,True,288000.0,288000.0
+laudo_16.txt,matricula,True,"""101.010""","""101.010"""
+laudo_16.txt,onus,True,"""NAO_INFORMADO""","{""status"": ""NAO_INFORMADO"", ""descricao"": ""sem informação""}"
+laudo_16.txt,data_vistoria,True,"""2025-06-19""","""2025-06-19"""
+laudo_16.txt,responsavel_tecnico,True,"{""nome"": ""Guilherme Rocha"", ""registro"": ""CREA-SP 501010""}","{""nome"": ""Guilherme Rocha"", ""registro"": ""CREA-SP 501010""}"
+laudo_17.txt,tipo_imovel,False,"""apartamento residencial""",LAUDO NÃO PROCESSADO
+laudo_17.txt,endereco,False,"""Rua Harmonia, 44, Vila Madalena, São Paulo/SP""",LAUDO NÃO PROCESSADO
+laudo_17.txt,areas,False,"{""terreno_m2"": null, ""construida_m2"": null, ""coberta_m2"": null, ""privativa_m2"": 70.0, ""total_m2"": null, ""util_m2"": null, ""comum_m2"": null}",LAUDO NÃO PROCESSADO
+laudo_17.txt,ano,False,2015,LAUDO NÃO PROCESSADO
+laudo_17.txt,valor_avaliacao_brl,False,610000.0,LAUDO NÃO PROCESSADO
+laudo_17.txt,matricula,False,"""176.543""",LAUDO NÃO PROCESSADO
+laudo_17.txt,onus,False,"""NAO_VERIFICADO""",LAUDO NÃO PROCESSADO
+laudo_17.txt,data_vistoria,False,"""2025-06-25""",LAUDO NÃO PROCESSADO
+laudo_17.txt,responsavel_tecnico,False,"{""nome"": ""Marina Albuquerque"", ""registro"": ""CREA-SP 5061234567""}",LAUDO NÃO PROCESSADO

@@ -1,0 +1,17 @@
+2026-09-27 21:12:25,814 | INFO | === INÍCIO DA AUTOMAÇÃO ===
+2026-09-27 21:12:25,815 | INFO | Iniciando leitura do arquivo: tests\fixtures\sem_valor_solicitado.csv
+2026-09-27 21:12:25,845 | INFO | Arquivo carregado com sucesso: 6400 linhas e 18 colunas.
+2026-09-27 21:12:25,846 | INFO | Validando estrutura do arquivo.
+2026-09-27 21:12:25,846 | ERROR | Arquivo inválido. Colunas obrigatórias ausentes: valor_solicitado
+2026-09-27 21:12:25,847 | ERROR | A automação foi interrompida: Arquivo inválido. Colunas obrigatórias ausentes: valor_solicitado
+Traceback (most recent call last):
+  File "C:\Users\luan_\OneDrive\Área de Trabalho\case-bari\src\parte2_relatorio_semanal.py", line 922, in <module>
+    validar_estrutura(
+    ~~~~~~~~~~~~~~~~~^
+        dados_brutos
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\luan_\OneDrive\Área de Trabalho\case-bari\src\parte2_relatorio_semanal.py", line 145, in validar_estrutura
+    raise ValueError(mensagem)
+ValueError: Arquivo inválido. Colunas obrigatórias ausentes: valor_solicitado
