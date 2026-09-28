@@ -125,6 +125,8 @@ As conclusões detalhadas, hipóteses e recomendações estão documentadas no p
 
 ## Parte 2 — Relatório semanal automatizado
 
+[Visualizar relatório HTML](https://luanzapata.github.io/case-bari-ai-data-lab/reports/parte2/relatorio_semanal.html)
+
 A automação lê a base de propostas, aplica os tratamentos, calcula as principais métricas do funil, gera gráficos e produz um relatório HTML para acompanhamento da liderança.
 
 ### Executar diretamente
